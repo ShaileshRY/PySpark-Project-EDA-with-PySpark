@@ -1,3 +1,3 @@
-# PySpark-Course-Project-1
+# PySpark-Project:EDA with PySpark
 
-## EDA with PySpark
+
